@@ -11,13 +11,6 @@ Perfect for sending a digital love note, decorating your GitHub profile, or maki
 
 ## 🌐 Live Preview  
 
-
-## 🧶 How to Use
-- Clone or download the repository  
-- Open `index.html` in your browser  
-- Customize the message, colors, or add Urdu poetry if you like  
-- Share it with someone special 💌
-
 ## 🌸 Inspiration
 Love doesn’t need loud words—just soft visuals and honest feeling.  
 This bunny carries a message from the heart, wrapped in blush and stars.
