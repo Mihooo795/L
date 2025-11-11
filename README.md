@@ -1,12 +1,25 @@
-## 💗 Bunny Love Confession
+# 💗 Bunny Love Confession
 
 A soft, blushing bunny holding a heart-shaped whisper:  
 **“i love you”** — no thunder, no roses, just quiet affection in pastel clouds.
 
-### 🌐 Live Preview
+**محبت، جو لفظوں سے نہیں، نظروں سے کہی گئی**  
+*A love not shouted, but shown—through blush, gaze, and gentle design.*
+
+This project is a simple HTML/CSS cartoon that expresses love in a gentle, visual way.  
+Perfect for sending a digital love note, decorating your GitHub profile, or making someone smile.
+
+## 🌐 Live Preview  
 
 
-### 🧶 How to Use
-- Open `index.html` in your browser
-- Customize the message or colors if you like
+## 🧶 How to Use
+- Clone or download the repository  
+- Open `index.html` in your browser  
+- Customize the message, colors, or add Urdu poetry if you like  
 - Share it with someone special 💌
+
+## 🌸 Inspiration
+Love doesn’t need loud words—just soft visuals and honest feeling.  
+This bunny carries a message from the heart, wrapped in blush and stars.
+
+**Made with moonlight by Minahil 🌙✨**
